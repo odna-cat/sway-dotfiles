@@ -1,0 +1,15 @@
+width=600
+height=400
+mode=drun
+filter_rate=100
+allow_markup=true
+no_actions=true
+term=foot
+halign=fill
+orientation=vertical
+content_halign=fill
+drun-display_generic=true
+matching=contains
+allow_images=true
+line_wrap=char
+term=kitty
